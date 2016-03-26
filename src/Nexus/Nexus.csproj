@@ -41,6 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Byte4.cs" />
+    <Compile Include="Design\ColorFCollectionConverter.cs" />
+    <Compile Include="Graphics\Colors\ColorFCollection.cs" />
     <Compile Include="Objects3D\AxisAlignedBox3D.cs" />
     <Compile Include="Objects3D\ContainmentType.cs" />
     <Compile Include="Objects3D\Frustum3D.cs" />
